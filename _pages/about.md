@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Sudhanshu!
+Hi, I'm Sudhanshu! 
+I'm currently changing the website around significantly, so most of it is inaccessible :(
 
 More
 ======
